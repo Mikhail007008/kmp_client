@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Main" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background_color</item>
+    </style>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_cropped</item>
+        <item name="postSplashScreenTheme">@style/Theme.App.Main</item>
+    </style>
+
+</resources>
