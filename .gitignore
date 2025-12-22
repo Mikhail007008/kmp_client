@@ -8,6 +8,10 @@ captures/
 .externalNativeBuild/
 .cxx/
 xcuserdata/
+.kotlin/
+DerivedData/
+**/.kotlin/
+*.xcuserstate
 local.properties
 androidApp/google-services.json
 gradle.properties
