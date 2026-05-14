@@ -11,6 +11,7 @@ xcuserdata/
 .kotlin/
 DerivedData/
 **/.kotlin/
+!docs/screenshots/*.jpg
 *.xcuserstate
 local.properties
 androidApp/google-services.json
